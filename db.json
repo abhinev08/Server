@@ -1,0 +1,94 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "Browser can execute only JavaScript",
+      "important": true
+    },
+    {
+      "id": 3,
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "content": "vz",
+      "important": false,
+      "id": 4
+    },
+    {
+      "content": "",
+      "important": false,
+      "id": 5
+    },
+    {
+      "content": "",
+      "important": false,
+      "id": 6
+    },
+    {
+      "content": "gy\\",
+      "important": false,
+      "id": 7
+    },
+    {
+      "content": "abcd",
+      "important": false,
+      "id": 8
+    },
+    {
+      "content": "dDFS",
+      "important": false,
+      "id": 9
+    },
+    {
+      "content": "fafaf",
+      "important": false,
+      "id": 10
+    },
+    {
+      "content": "dsD",
+      "important": false,
+      "id": 11
+    },
+    {
+      "content": "dSD",
+      "important": false,
+      "id": 12
+    },
+    {
+      "content": "D",
+      "important": false,
+      "id": 13
+    },
+    {
+      "content": "DKUSD\\",
+      "important": false,
+      "id": 14
+    },
+    {
+      "content": "abhinev",
+      "important": false,
+      "id": 15
+    },
+    {
+      "content": "kiran",
+      "important": true,
+      "id": 16
+    },
+    {
+      "content": "",
+      "important": false,
+      "id": 17
+    },
+    {
+      "content": "abhinev",
+      "important": true,
+      "id": 18
+    }
+  ]
+}
